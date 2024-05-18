@@ -2,7 +2,7 @@
 # Project Overview
 bBills platform is system that analyzes bills such as (electricity, gas, water, phone) for citizens in the Kingdom of Saudi Arabia.
 
-This project aims to analyze household bills for users and give them alerts in the event that a bill is received at a high or low rate, as it helps them manage their financial affairs better by using the analysis and study of their bills data.
+This project aims to analyze household bills for users and give them alerts in the event that a bill is received at a high or low rate, as it helps them manage their financial affairs better by using machine learning to predict bill prices and enable informed consumption decisions. 
 
 We use these programs to achieve our platform: 
 ## - For website: 
